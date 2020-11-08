@@ -4,4 +4,4 @@ Useful when we can not use ExpandableListView due to lack of customization optio
 
 # Screenshot:
 https://github.com/ervinod/ExpandableRecyclerview/blob/master/screenshot.gif
-![](name-of-screenshot.gif)
+![](screenshot.gif)
