@@ -4,4 +4,4 @@ Useful when we can not use ExpandableListView due to lack of customization optio
 
 # Screenshot:
 
-<img src="https://github.com/ervinod/ExpandableRecyclerview/blob/master/screenshot.gif" width="350" height="550"/>
+<img src="https://github.com/ervinod/ExpandableRecyclerview/blob/master/screenshot.gif" width="320" height="600"/>
