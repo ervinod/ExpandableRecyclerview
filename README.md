@@ -4,4 +4,4 @@ Useful when we can not use ExpandableListView due to lack of customization optio
 
 # Screenshot:
 
-![](screenshot.gif)
+![](screenshot.gif width="200" height="400")
